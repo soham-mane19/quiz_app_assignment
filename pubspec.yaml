@@ -1,0 +1,31 @@
+name: quiz_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  animated_text_kit: ^4.2.2
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets\splashScreen.jpg
+   - assets\ideaimage.webp
+   - assets\HomeScreen.jpg
+   - assets\homescrren1.png
+   - assets\homeicon.png
+   - assets\finaliconhome.png
+   - assets\trophy.webp
+   - assets\opps.webp
